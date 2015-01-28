@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureChannelSplitter", "PhoneApp1\PictureChannelSplitter.csproj", "{963651CC-71C6-4820-88C4-07BC6B2E03A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|ARM.ActiveCfg = Debug|ARM
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|ARM.Build.0 = Debug|ARM
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|ARM.Deploy.0 = Debug|ARM
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|x86.ActiveCfg = Debug|x86
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|x86.Build.0 = Debug|x86
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Debug|x86.Deploy.0 = Debug|x86
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|ARM.ActiveCfg = Release|ARM
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|ARM.Build.0 = Release|ARM
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|ARM.Deploy.0 = Release|ARM
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|x86.ActiveCfg = Release|x86
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|x86.Build.0 = Release|x86
+		{963651CC-71C6-4820-88C4-07BC6B2E03A6}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
